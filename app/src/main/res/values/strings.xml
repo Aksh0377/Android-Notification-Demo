@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReplyNotification</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="reply_label">replymessage</string>
+</resources>
